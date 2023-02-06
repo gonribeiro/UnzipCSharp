@@ -12,27 +12,29 @@ namespace UnzipCSharp
             {
                 using ZipArchive archive = ZipFile.OpenRead(zip);
 
+                // pasta ou subpasta a ser extraída dos zips
+                // informe vazio "" se deseja extrair todos os arquivos
                 var result = from currEntry in archive.Entries
-                             where Path.GetDirectoryName(currEntry.FullName).Contains("example\\optionalSubfolder") // pasta a ser extraída dos zips
+                             where Path.GetDirectoryName(currEntry.FullName).Contains("exampleFolder\\subfolder")
                              select currEntry;
 
                 foreach (ZipArchiveEntry entry in result)
                 {
                     var fullName = entry.FullName;
 
-                    if (fullName.ToCharArray().Count(c => c == '/') == 0) // quando arquivo está na pasta raiz
+                    // quando arquivo está na pasta raiz
+                    if (fullName.ToCharArray().Count(c => c == '/') == 0)
                     {
                         entry.ExtractToFile(Path.Combine(extractFolder, entry.Name), true);
                     }
                     else
                     {
-                        if (entry.Name.Count() > 0) // @todo corrigir adequadamente. Impede erro de entrada inexistente 
+                        if (entry.Length > 0) 
                         {
-                            var newPath = fullName.Remove(fullName.LastIndexOf("/")); // nome da subpasta onde está o arquivo
+                            // cria a(s) subpasta(s)
+                            Directory.CreateDirectory(Path.Combine(extractFolder, fullName.Remove(fullName.LastIndexOf("/"))));
 
-                            Directory.CreateDirectory(Path.Combine(extractFolder, newPath)); // cria a(s) subpasta(s)
-
-                            entry.ExtractToFile(Path.Combine(extractFolder + "\\" + newPath.Replace('/', '\\'), entry.Name), true);
+                            entry.ExtractToFile(Path.Combine(extractFolder, fullName), true);
                         }
                     }
                 }

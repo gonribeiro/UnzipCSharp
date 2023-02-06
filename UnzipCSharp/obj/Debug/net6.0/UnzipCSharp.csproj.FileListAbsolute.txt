@@ -43,3 +43,33 @@ C:\Users\tiago\Desktop\Unzip Multiple Files\UnzipCSharp\obj\Debug\net6.0\refint\
 C:\Users\tiago\Desktop\Unzip Multiple Files\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.pdb
 C:\Users\tiago\Desktop\Unzip Multiple Files\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.genruntimeconfig.cache
 C:\Users\tiago\Desktop\Unzip Multiple Files\UnzipCSharp\obj\Debug\net6.0\ref\UnzipCSharp.dll
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.exe
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.deps.json
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.runtimeconfig.json
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.dll
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.pdb
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.AssemblyInfo.cs
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.dll
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\refint\UnzipCSharp.dll
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.pdb
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.genruntimeconfig.cache
+C:\Users\tiago\Desktop\Test Backup\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\ref\UnzipCSharp.dll
+C:\example\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.exe
+C:\example\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.deps.json
+C:\example\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.runtimeconfig.json
+C:\example\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.dll
+C:\example\UnzipCSharp\UnzipCSharp\bin\Debug\net6.0\UnzipCSharp.pdb
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.csproj.AssemblyReference.cache
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.AssemblyInfoInputs.cache
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.AssemblyInfo.cs
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.csproj.CoreCompileInputs.cache
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.dll
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\refint\UnzipCSharp.dll
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.pdb
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\UnzipCSharp.genruntimeconfig.cache
+C:\example\UnzipCSharp\UnzipCSharp\obj\Debug\net6.0\ref\UnzipCSharp.dll

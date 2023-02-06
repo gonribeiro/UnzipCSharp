@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago\\Desktop\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj": {}
+    "C:\\example\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago\\Desktop\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj": {
+    "C:\\example\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj",
+        "projectUniqueName": "C:\\example\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj",
         "projectName": "UnzipCSharp",
-        "projectPath": "C:\\Users\\tiago\\Desktop\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj",
+        "projectPath": "C:\\example\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\Desktop\\UnzipCSharp\\UnzipCSharp\\obj\\",
+        "outputPath": "C:\\example\\UnzipCSharp\\UnzipCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

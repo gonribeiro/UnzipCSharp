@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "faeWu+7kezFnR6RmrUsYU3qcbi4W7KCkWl4P03q1Z2V+sohVslb97Owgb/Gx6hFdpF0Rh/l9JSVwzzgoBRf1Pg==",
+  "dgSpecHash": "vuJdF/FF+lZvTWLvG/aSkhloKFPNlW1uxTf6e28JSoluJIHxV/GPIsZFlcVxiqOl9+RjLrsyln4tA5w4Kd48dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\Desktop\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj",
+  "projectFilePath": "C:\\example\\UnzipCSharp\\UnzipCSharp\\UnzipCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
